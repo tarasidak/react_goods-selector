@@ -1,0 +1,2 @@
+.App{margin-left:auto;margin-right:auto;width:500px}.header{display:flex}.selected{background-color:#ff0}.delete{display:none;background-color:#e00505;height:40px;vertical-align:middle;margin:21px;border:none;cursor:pointer}.addButton{background-color:#add8e6}.addButton,.removeButton{float:right;border:none;cursor:pointer}.removeButton{display:none;background-color:tomato}ul li{display:flex;width:300px;margin-bottom:3px}ul li button{margin-left:auto}
+/*# sourceMappingURL=main.ce337848.chunk.css.map */
